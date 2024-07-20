@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @tpham69
-- 👀 I’m interested in CS
 - 🌱 I’m currently learning at FPL
 
 <!---
